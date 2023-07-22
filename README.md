@@ -1,8 +1,7 @@
 
 <div align="center">
-  <image src="https://github.com/suman-somu/suman-somu/assets/75962762/088ba282-b557-40a7-9f50-a4c6c8fed95e">
+  <image src="https://github.com/suman-somu/suman-somu/assets/75962762/4b0b9693-4407-4a86-9741-4080613451b3">
 </div>
-
 
 
 <h1 align="center">Hi 👋, I'm Suman Sahoo</h1>
