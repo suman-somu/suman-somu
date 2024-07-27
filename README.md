@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://sumansahoo.tech/">
-    <img src="https://github.com/user-attachments/assets/6017dbb4-c200-4370-ae7b-ecfc0f8386d3" />
-  </a>
-</p>
+
 
 <h1 align="center">Hello 👋</h1>
 
