@@ -14,4 +14,4 @@
 
 ## 🚀 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,vite,mongodb,nodejs,docker,gcp,nginx,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,vite,mongodb,nodejs,docker,gcp,nginx,linux,vscode)](#)
